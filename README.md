@@ -1,2 +1,6 @@
 # WEBSITE
-Restaurant web page
+This repository contains a restaurant website developed on the basis of HTML,CSS.
+
+
+Link to the website :--
+  
