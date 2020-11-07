@@ -1,4 +1,4 @@
-# WEBSITE
+# RESTAURANT WEBSITE
 This repository contains a restaurant website developed on the basis of HTML,CSS.
 
 
