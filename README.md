@@ -1,5 +1,5 @@
 # RESTAURANT WEBSITE
-This repository contains a restaurant website developed on the basis of HTML,CSS.
+This repository contains a restaurant website developed on the basis of HTML,CSS and little Javascript.
 
 
 Link to the website :--
